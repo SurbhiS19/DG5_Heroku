@@ -4,6 +4,6 @@ Pickleshare
 Flask
 Requests
 Gunicorn
-Sklearn
+scikit-learn
 Seaborn
 Matplotlib
